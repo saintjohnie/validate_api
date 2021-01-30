@@ -1,8 +1,9 @@
 # validate_api
 
-https://validat-api.glitch.me/
-This is an api that validate a post request with the following payload format
-{
+#Get request:https://validat-api.glitch.me/
+#Post request:https://validat-api.glitch.me/validate-api
+# This is an api that validate a post request with the following payload format
+#{
   "rule": {
     "field": "missions"
     "condition": "gte",
